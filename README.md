@@ -1,6 +1,9 @@
 # i_am_rich
 
-A new Flutter application.
+
+
+![img](https://github.com/stewartyoung/i_am_rich/blob/master/i_am_rich.png?raw=true)
+![img]()
 
 ## Getting Started
 
