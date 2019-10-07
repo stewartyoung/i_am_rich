@@ -1,6 +1,11 @@
 # i_am_rich
 
-A new Flutter application.
+## Main content is in lib/main.dart
+
+![img](https://user-images.githubusercontent.com/36263575/66265433-46694100-e80e-11e9-9e9e-8d5f159b7c14.png)
+
+![img](https://github.com/stewartyoung/i_am_rich/blob/master/i_am_rich.png?raw=true)
+
 
 ## Getting Started
 
